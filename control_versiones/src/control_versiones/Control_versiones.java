@@ -20,6 +20,7 @@ public class Control_versiones {
         System.out.println("versión 3");
         System.out.println("versión 4 autor Atuesta");
         System.out.println("versión 5 Autor Prieto");
+        System.out.println("versión 6 Autor Merchan");
     }
     
 }
